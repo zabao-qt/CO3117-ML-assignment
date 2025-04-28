@@ -75,8 +75,6 @@ All source code is organized under the `src/modeling` folder:
         ├── random_forest.py         <- Train Random Forest model
         ├── svm.py                   <- Train Support Vector Machine model
         └── train.py                 <- Main script for KNN and Gradient Boosting
-    │
-    ├── Data_loader.py
 ```
 
 --------
